@@ -28,7 +28,7 @@ day3_stu_setup.sh
 ```
 
 ## Diagram
-A diagram of the Azure Cloud Security Project 
+A diagram of the Azure Cloud Security Project & Network Diagram
 
 ```bash
 KMatlock_Resource_Group
